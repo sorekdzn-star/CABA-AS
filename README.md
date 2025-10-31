@@ -65,12 +65,7 @@ npm start
 
 ## Información de Contacto
 
-- Teléfono: 3314271718
-- Teléfono: 3312492430
-- Horario: 9 AM - 9 PM
-- Check-in: 2 PM
-- Check-out: 12 PM
-- Sitio web: www.cabanasapango.com
+
 
 ## Política de Reservas
 
